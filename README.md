@@ -162,19 +162,19 @@ customer-churn-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Christianagayapong/customer-churn-prediction.git
+git clone https://github.com/ChristianAgyapong/AfriLab-Analyse.git
 ```
 
 Move into the project folder:
 
 ```bash
-cd customer-churn-prediction
+cd AfriLab-Analyse
 ```
 
 Install the required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 Launch Jupyter Notebook:
