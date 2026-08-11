@@ -2,7 +2,7 @@
 
 ## Data Preprocessing & Feature Engineering 
 
-**AnalystLab Africa – Machine Learning Internship Programme**
+**AnalystLab Africa – Machine Learning Internship Programme** 
 
 ---
 
