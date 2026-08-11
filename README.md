@@ -1,4 +1,4 @@
-#  Telco Customer Churn Prediction – Week 2
+#  Telco Customer Churn Prediction – Week 2  
 
 ## Data Preprocessing & Feature Engineering 
 
